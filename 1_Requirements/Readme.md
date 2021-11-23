@@ -5,7 +5,7 @@
 A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.And My-calendar is a application that allow one or more users to edit, view, note events and activities, and so on.This mainly reduces the mismanagement and help in stick to our sheduled work for our improvement. 
 
 # Objective
-The main objective of the project is to perform a Calendar to make the best financial investment. To make the financial calculations easy.
+The main objective of the project is to build a calendar that is usefull for our reference and to know exactly the information of that day.
 
 # Features
 This project supports the following types of Calender:
