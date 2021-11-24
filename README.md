@@ -7,7 +7,7 @@
 
 [![C/C++ CI - Build Status](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/linux.yml/badge.svg)](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/linux.yml)
 
-
+[![Unit Testing - Unity](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/unity.yml/badge.svg)](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/unity.yml)
 
 
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/valgrind.yml)
