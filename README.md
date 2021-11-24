@@ -11,3 +11,6 @@
 
 
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/valgrind.yml)
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/51911b5dfd3f4939aa919ecc1ebd9236)](https://www.codacy.com/gh/SHANMUGAAPRIYANM/M1_Application_MyCalender/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SHANMUGAAPRIYANM/M1_Application_MyCalender&amp;utm_campaign=Badge_Grade)
