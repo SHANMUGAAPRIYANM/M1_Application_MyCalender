@@ -7,6 +7,7 @@
 
 [![C/C++ CI - Build Status](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/linux.yml/badge.svg)](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/linux.yml)
 
-[![Code Quality - Static Code - Cppchec](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/c-cpp.yml)
 
 
+
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/valgrind.yml/badge.svg)](https://github.com/SHANMUGAAPRIYANM/M1_Application_MyCalender/actions/workflows/valgrind.yml)
