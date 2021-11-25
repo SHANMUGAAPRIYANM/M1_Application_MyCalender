@@ -50,7 +50,7 @@ This project supports the following types of Calender:
 2. GUI can be used to enhance the visual look of the calendar.
 
 ## Threats
-1. Advanced featured calculators are already in the market.
+1. Advanced flexible calendars have been evolving.
 
 # High Level Requirements
 | ID   |      Description     |  Status |
